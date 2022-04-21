@@ -2,7 +2,7 @@
 #### Senior Software Engineer
 
 ***
-- 📄 Know about my experiences from [**LinkedIn Profile**](www.linkedin.com/in/dmitry-denshchikov-3360b21bb)
+- 📄 Know about my experiences from [**LinkedIn Profile**](https://www.linkedin.com/in/dmitry-denshchikov-3360b21bb/)
 - 🌍 I speak English (B1+), Russian (native)
 
 <!--
