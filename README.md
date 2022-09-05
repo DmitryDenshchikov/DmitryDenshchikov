@@ -3,7 +3,7 @@
 
 ***
 - 📄 Know about my experiences from [**LinkedIn Profile**](https://www.linkedin.com/in/dmitry-denshchikov-3360b21bb/)
-- 🌍 I speak English (B1+), Russian (native)
+- 🌍 I speak English (B2), Russian (native)
 
 <!--
 **DmitryDenshchikov/DmitryDenshchikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
