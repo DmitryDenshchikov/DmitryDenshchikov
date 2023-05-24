@@ -3,6 +3,7 @@
 
 ***
 - 📄 Know about my experiences from [**LinkedIn Profile**](https://www.linkedin.com/in/dmitry-denshchikov-3360b21bb/)
+- 🔎 Know about my contribution to the developers community from [**Stackoverflow Profile**](https://stackoverflow.com/users/10731216/hereandbeyond)
 - 🌍 I speak English (B2), Russian (native)
 
 <!--
