@@ -4,7 +4,7 @@
 ***
 - 📄 Know about my experiences from [**LinkedIn Profile**](https://www.linkedin.com/in/dmitry-denshchikov-3360b21bb/)
 - 🔎 Know about my contribution to the developers community from [**Stackoverflow Profile**](https://stackoverflow.com/users/10731216/hereandbeyond)
-- 🌍 I speak English (B2), Russian (native)
+- 🌍 I speak English (C1), Russian (native)
 
 <!--
 **DmitryDenshchikov/DmitryDenshchikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
