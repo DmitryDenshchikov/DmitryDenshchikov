@@ -2,8 +2,9 @@
 #### Senior Software Engineer
 
 ***
-- 📄 Know about my experiences from [**LinkedIn Profile**](https://www.linkedin.com/in/dmitry-denshchikov-3360b21bb/)
-- 🔎 Know about my contribution to the developers community from [**Stackoverflow Profile**](https://stackoverflow.com/users/10731216/hereandbeyond)
+- 🌟 Know about my experiences from [**LinkedIn Profile**](https://www.linkedin.com/in/dmitry-denshchikov-3360b21bb/)
+- 📄 Read my articles here: [**Medium Profile**](https://medium.com/@HereAndBeyond)
+- 🔎 My contribution to the developers community: [**Stackoverflow Profile**](https://stackoverflow.com/users/10731216/hereandbeyond)
 - 🌍 I speak English (C1), Russian (native)
 
 <!--
