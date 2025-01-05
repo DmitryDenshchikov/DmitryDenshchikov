@@ -3,7 +3,7 @@
 
 ***
 - 🌟 Know about my experience from [**LinkedIn Profile**](https://www.linkedin.com/in/dmitry-denshchikov-3360b21bb/)
-- 📄 Read my articles here: [**Medium Profile**](https://medium.com/@HereAndBeyond)
+- 📄 Read my articles here: [**My Blog**](https://dmitrydenshchikov.github.io/)
 - 🔎 My contribution to the developers community: [**Stackoverflow Profile**](https://stackoverflow.com/users/10731216/hereandbeyond)
 - 🌍 Languages: English (Fluent), Russian (Native)
 
